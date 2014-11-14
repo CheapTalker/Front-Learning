@@ -1,0 +1,21 @@
+{
+  "name": "Front",
+  "version": "0.0.1",
+  "authors": [
+    "Han"
+  ],
+  "description": "front bower part",
+  "main": "src/js/*",
+  "keywords": [
+    "frontend",
+    "learing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

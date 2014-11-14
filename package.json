@@ -1,0 +1,21 @@
+{
+  "name": "Front",
+  "version": "0.0.1",
+  "description": "learning frontend tech",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "frontend"
+  ],
+  "author": "Han",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-bower": "0.0.7",
+    "gulp-compass": "^2.0.1",
+    "gulp-notify": "^2.0.1"
+  }
+}

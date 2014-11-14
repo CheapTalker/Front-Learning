@@ -1,0 +1,9 @@
+body {
+  background-color: yellow;
+}
+body button {
+  background-color: blue;
+}
+body div {
+  border: 1px #000;
+}
